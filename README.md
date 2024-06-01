@@ -1,3 +1,4 @@
 # ✨ PROBLEM-SOLVING CHANALLES✨
-## Day One: Easy / Two Sum  ✔
-## Day Two: Easy / Palindrome Number ✔
+## Day 1: Easy / Two Sum  ✔
+## Day 2: Easy / Palindrome Number ✔
+## Day 3: Easy / Roman To Integer ✔
